@@ -1,5 +1,5 @@
 <h1>Be The Hero</h1>
-
+<img src="https://github.com/amandapolotow/be-the-hero/blob/master/ScreenShot1.png" />
 <p>Project developed during the Omnistack Week 11</p>
 
 <h2>Purpose</h2>
